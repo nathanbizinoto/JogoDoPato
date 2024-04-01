@@ -2,9 +2,9 @@
 
 Trabalho para a disciplina Banco de Dados Relacional do 2° Semestre de Desenvolvimento de Software Multiplataforma.
 
-# 🎮 Link para a demonstração do Jogo
+# 🎮 Demonstração do Jogo
 
-Se quiser ver uma demonstração simples de como o jogo funciona, é só clicar [aqui!](https://youtu.be/5nFYwIwdloI)
+
 
 # 🎮 Link do Jogo
 
