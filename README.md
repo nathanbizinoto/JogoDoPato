@@ -4,7 +4,7 @@ Trabalho para a disciplina Banco de Dados Relacional do 2° Semestre de Desenvol
 
 # 🎮 Demonstração do Jogo
 
-
+https://github.com/nathanbizinoto/JogoDoPato/assets/132208052/fbd30d9d-9f17-42b5-9909-d670aad1419d
 
 # 🎮 Link do Jogo
 
